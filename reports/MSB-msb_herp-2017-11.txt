@@ -1,0 +1,75 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 493
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 17
+	Date: 2017-11-26 ; Times: 4
+	Date: 2017-11-27 ; Times: 6
+	Date: 2017-11-25 ; Times: 3
+	Date: 2017-11-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "24093 MSB" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "sceloporus arenicolus 2012" ; Times: 3
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "MSB 3485" ; Times: 2
+	Query: "chelydra serpentina" ; Times: 1
+	Query: "genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Emydoidea blandingii stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "sceloporus arenicolus 2008" ; Times: 3
+	Query: "genus:Crotalus recordnumber:5" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 2
+	Query: "plestiodon fasciatus" ; Times: 1
+	Query: "10502" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "UTA R-6231" ; Times: 2
+	Query: "county:&#34;Trinity&#34; year &gt;= 1959 month &gt;= 10" ; Times: 1
+	Query: "lithobates sylvaticus" ; Times: 2
+	Query: "masticophis taeniatus mexico" ; Times: 2
+	Query: "institutioncode:msb" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1101 download events in this period)
+Total number of records downloaded: 130
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
