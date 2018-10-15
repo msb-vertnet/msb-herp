@@ -1,0 +1,218 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 227
+Number of records retrieved in searches: 2026
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 203
+	Country: Unknown ; Times: 3
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 11
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-30 ; Times: 10
+	Date: 2018-01-11 ; Times: 7
+	Date: 2018-01-10 ; Times: 6
+	Date: 2018-01-13 ; Times: 8
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 12
+	Date: 2018-01-17 ; Times: 12
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-25 ; Times: 13
+	Date: 2018-01-08 ; Times: 8
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 48
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 17
+	Date: 2018-01-01 ; Times: 2
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-21 ; Times: 4
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 5
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-23 ; Times: 16
+	Date: 2018-01-27 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "10299" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "gbifdatasetid:fb639e31-52eb-4998-afb1-984ee12aca0f" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "Lampropeltis triangulum" ; Times: 1
+	Query: "Crotalus utah" ; Times: 36
+	Query: "Porcupine" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "3854" ; Times: 1
+	Query: "crotalus utah" ; Times: 6
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "porcupine mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(29.5991781095,-94.451480884875))&lt;2977" ; Times: 3
+	Query: "distance(location,geopoint(29.5684292789,-94.451480884875))&lt;2978" ; Times: 3
+	Query: "95638" ; Times: 1
+	Query: "Eleutherodactylus schwartzi" ; Times: 2
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.7556667820715,-106.865426345))&lt;4228" ; Times: 3
+	Query: "rhyacotriton county:&#34;siskiyou&#34;" ; Times: 11
+	Query: "Anaxyrus punctatus hassex:1" ; Times: 7
+	Query: "specificepithet:guttata genus:Clemmys" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Badger" ; Times: 2
+	Query: "91908" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "distance(location,geopoint(35.530571085,-105.1753736415))&lt;5373" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "distance(location,geopoint(36.5714694420001,-104.5865578545))&lt;3251" ; Times: 2
+	Query: "Mathews 1964" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:hedricki" ; Times: 1
+	Query: "small mammals new mexico" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "distance(location,geopoint(29.6606492925845,-94.449936873125))&lt;2853" ; Times: 3
+	Query: "Reptilia Arizona wickenburg" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "76908" ; Times: 1
+	Query: "11682" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 2
+	Query: "distance(location,geopoint(32.6703908845001,-94.1376893324999))&lt;4785" ; Times: 3
+	Query: "PLESTIODON FASCIATUS oklahoma" ; Times: 1
+	Query: "Bufo baxteri" ; Times: 3
+	Query: "r-87617" ; Times: 1
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "Pyromelana new mexico sierra" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Utah&#34; year &gt;= 1980" ; Times: 1
+	Query: "lee county msb" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis county:&#34;Imperial&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Crotalus hidalgo mexico" ; Times: 1
+	Query: "genus:Acris specificepithet:blanchardi" ; Times: 1
+	Query: "genus:Uma county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(34.754019041,-98.659389363))&lt;15869" ; Times: 3
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 3
+	Query: "mississippi msb" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Rhyacotriton stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "blanding" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea" ; Times: 1
+	Query: "genus:Chionactis county:&#34;imperial&#34;" ; Times: 3
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 8
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:nasicus hassex:1" ; Times: 1
+	Query: "apalone spinifera" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Imperial&#34;" ; Times: 1
+	Query: "msb 81544" ; Times: 4
+	Query: "89962" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Crotalus ruber San Diego" ; Times: 2
+	Query: "Rana pipiens" ; Times: 1
+	Query: "specificepithet:nasicus hassex:1 mappable:1" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 5
+	Query: "genus:heterodon stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 2
+	Query: "(porcupine) mappable:1" ; Times: 2
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "distance(location,geopoint(33.802489436786,-106.865426345))&lt;4226" ; Times: 3
+	Query: "77136" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 4
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 4
+	Query: "class:Reptilia county:&#34;Limestone&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon hassex:1" ; Times: 1
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+	Query: "crotalus molossus molossus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 2
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1398 download events in this period)
+Total number of records downloaded: 1749
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 7
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Rana boylii" ; Times: 2
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
