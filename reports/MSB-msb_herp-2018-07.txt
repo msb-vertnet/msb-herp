@@ -1,0 +1,254 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 1285
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 237
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 15
+	Date: 2018-07-03 ; Times: 38
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 19
+	Date: 2018-07-04 ; Times: 5
+	Date: 2018-07-05 ; Times: 7
+	Date: 2018-07-06 ; Times: 50
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 11
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-25 ; Times: 4
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-12 ; Times: 7
+	Date: 2018-07-11 ; Times: 8
+	Date: 2018-07-10 ; Times: 7
+	Date: 2018-07-17 ; Times: 22
+	Date: 2018-07-16 ; Times: 6
+	Date: 2018-07-15 ; Times: 9
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-18 ; Times: 19
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-20 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotaphytus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "specificepithet:mcallii genus:Phrynosoma country" ; Times: 1
+	Query: "genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "MSB 74897" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 13
+	Query: "Spea multiplicata" ; Times: 2
+	Query: "Sistrurus México" ; Times: 1
+	Query: "Olson" ; Times: 1
+	Query: "pituophis nebraska" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; institutioncode:MSB" ; Times: 1
+	Query: "hyla wrightorum" ; Times: 1
+	Query: "amphibia regilla Hyla" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:MSB" ; Times: 1
+	Query: "MSB 74983" ; Times: 2
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "MSB 82183" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:mcallii genus:Phrynosoma country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Crotalus atrox Hill County" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 2
+	Query: "MSB 90219" ; Times: 2
+	Query: "NK 53277" ; Times: 2
+	Query: "NK 53272" ; Times: 2
+	Query: "genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "Conolophus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:cochranae" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "catalognumber:84516 institutioncode:msb" ; Times: 2
+	Query: "MSB 84847" ; Times: 2
+	Query: "MSB 84845" ; Times: 2
+	Query: "MSB 84841" ; Times: 2
+	Query: "Crotalus Atrox" ; Times: 1
+	Query: "155904" ; Times: 1
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "NK 53256" ; Times: 2
+	Query: "msb 156150" ; Times: 1
+	Query: "NK 53266" ; Times: 2
+	Query: "NK 53269" ; Times: 2
+	Query: "NK 53268" ; Times: 2
+	Query: "MSB 74926" ; Times: 3
+	Query: "crotalus molossus" ; Times: 3
+	Query: "10046" ; Times: 1
+	Query: "MSB 90220" ; Times: 2
+	Query: "MSB 74970" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "NK 53265" ; Times: 2
+	Query: "specificepithet:cyrtopsis county:&#34;navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "MSB 74936" ; Times: 2
+	Query: "MSB 74932" ; Times: 2
+	Query: "oklahoma triangulum" ; Times: 19
+	Query: "catalognumber:84517 institutioncode:msb" ; Times: 2
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "elaphe guttata guttata" ; Times: 1
+	Query: "MSB 83495" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "weld colorado lampropeltis" ; Times: 1
+	Query: "MSB 90216" ; Times: 2
+	Query: "MSB 87462" ; Times: 2
+	Query: "catalognumber:84338 institutioncode:MSB" ; Times: 2
+	Query: "MSB 83419" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "MSB 86381" ; Times: 1
+	Query: "MSB 89460" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "12513" ; Times: 1
+	Query: "MSB 83417" ; Times: 1
+	Query: "specificepithet:hardii genus:Aneides stateprovince:&#34;New Mexico&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Tantilla institutioncode:MSB" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; Lampropeltis zonata" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "MSB 84837" ; Times: 2
+	Query: "MSB 84833" ; Times: 2
+	Query: "specificepithet:platyrhinos county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "MSB 87492" ; Times: 2
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;plumas&#34;" ; Times: 1
+	Query: "MSB 90205" ; Times: 2
+	Query: "MSB 89198" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; AND (NOT KU)" ; Times: 1
+	Query: "NK 53239" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "crotalus concolor" ; Times: 2
+	Query: "(Mallory)" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "MSB 156117" ; Times: 2
+	Query: "89930" ; Times: 1
+	Query: "triangulum nebraska" ; Times: 1
+	Query: "MSB 74663" ; Times: 2
+	Query: "MSB 83399" ; Times: 1
+	Query: "MSB 83409" ; Times: 1
+	Query: "Aspidoscelis inornata New Mexico" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "MSB 87486" ; Times: 2
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "MSB 87484" ; Times: 2
+	Query: "MSB 87485" ; Times: 2
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "MSB 74894" ; Times: 2
+	Query: "nasicus nebraska" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:terrestris" ; Times: 1
+	Query: "MSB 155835" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "gyalopion canum" ; Times: 1
+	Query: "MSB 155850" ; Times: 2
+	Query: "spea hammondii" ; Times: 1
+	Query: "class:reptilia county:&#34;plumas&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana pretiosa mappable:1" ; Times: 3
+	Query: "specificepithet:catesbeianus genus:Lithobates stateprovince:&#34;New Mexico&#34;" ; Times: 4
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "MSB 74885" ; Times: 2
+	Query: "MSB 74886" ; Times: 2
+	Query: "class:Reptilia locality:El Valle stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "MSB 12187" ; Times: 2
+	Query: "msb 156183" ; Times: 1
+	Query: "msb 156182" ; Times: 1
+	Query: "lengthtype:snout-vent length range" ; Times: 1
+	Query: "1456 KU" ; Times: 2
+	Query: "NK 53251" ; Times: 2
+	Query: "NK 53252" ; Times: 2
+	Query: "genus:Spea stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sistrurus institutioncode:MSB" ; Times: 1
+	Query: "MSB 89387" ; Times: 2
+	Query: "gopherus" ; Times: 1
+	Query: "NK 53272]" ; Times: 1
+	Query: "MSB 74974" ; Times: 1
+	Query: "heterodon nebraska" ; Times: 2
+	Query: "catalognumber:84431 institutioncode:msb" ; Times: 2
+	Query: "genus:Trimorphodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "Rana areolata" ; Times: 4
+	Query: "MSB 74667" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "NK 53249" ; Times: 2
+	Query: "NK 53248" ; Times: 2
+	Query: "MSB 74669" ; Times: 2
+	Query: "midas" ; Times: 1
+	Query: "genus: Ctenosaura pectinata county:&#34;dade&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "NK 53247" ; Times: 2
+	Query: "MSB 74662" ; Times: 2
+	Query: "MSB 83456" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 977 download events in this period)
+Total number of records downloaded: 4379
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "order:Squamata hasmass:1" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 2
+	Query: "Aberdeen" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
