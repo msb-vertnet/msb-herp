@@ -1,0 +1,253 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 3342
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 149
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 13
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 8
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-03 ; Times: 13
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 12
+	Date: 2018-06-25 ; Times: 14
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 11
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 8
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 14
+	Date: 2018-06-22 ; Times: 5
+	Date: 2018-06-11 ; Times: 9
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "95500" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;trinity&#34;" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:Lithobates stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Sceloporus year &gt;= 1990 institutioncode:MSB" ; Times: 2
+	Query: "Gopherus morafkai" ; Times: 2
+	Query: "Sceloporus arenicolus" ; Times: 2
+	Query: "specificepithet:collaris genus:Crotaphytus institutioncode:MSB" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus class:Reptilia county:&#34;cochise&#34;" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "crowley county colorado" ; Times: 1
+	Query: "Petrified Forest" ; Times: 1
+	Query: "Elgaria coerulea Washington" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;1995" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta class:reptilia institutioncode:MSB" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:texas" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "Missouri Reptilia" ; Times: 4
+	Query: "crotalus tigris" ; Times: 4
+	Query: "poling" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "micruroides stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "genus:sistrurus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 3
+	Query: "distance(location,geopoint(44.5096002022186,-93.913082865578))&lt;12869" ; Times: 1
+	Query: "locality:EL MORRO stateprovince:&#34;NEW MEXICO&#34;" ; Times: 1
+	Query: "vntype:specimen lengthinmm &gt;= 350 lengthinmm &lt;= 2000 lengthtype:snout-vent length range haslength:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis hastissue:1" ; Times: 1
+	Query: "Museum of Southwestern Biology in Albuquerque institutioncode:MSB" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:MSB" ; Times: 1
+	Query: "zonata" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:coluber class:reptilia institutioncode:MSB" ; Times: 2
+	Query: "genus:Sceloporus year &gt;= 1980 institutioncode:MSB" ; Times: 2
+	Query: "locality:el morro" ; Times: 7
+	Query: "specificepithet:cowlesi genus:Sceloporus year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 1
+	Query: "Sistrurus Valencia" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Missouri reptilia" ; Times: 1
+	Query: "Spea intermontana MSB" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 2
+	Query: "Spea intermontana" ; Times: 1
+	Query: "genus:Sauromalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "Sistrurus bernalillo" ; Times: 2
+	Query: "specificepithet:triangulum stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "sceloporus graciosus arizona" ; Times: 4
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta class:reptilia stateprovince:&#34;new mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 2
+	Query: "specificepithet:taeniatus institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma stateprovince:&#34;Idaho&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "specificepithet:inornata genus:Aspidoscelis institutioncode:MSB" ; Times: 2
+	Query: "locality:EL MORRO" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis institutioncode:MSB" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "island specificepithet:texanus genus:cophosaurus class:reptilia institutioncode:MSB" ; Times: 1
+	Query: "island class:reptilia institutioncode:MSB" ; Times: 7
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:maculata genus:holbrookia institutioncode:MSB" ; Times: 1
+	Query: "Crotalus bernalillo" ; Times: 2
+	Query: "79409" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "brown bear" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kane&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "anolis institutioncode:MSB" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;2010" ; Times: 1
+	Query: "anaxyrus boreas" ; Times: 1
+	Query: "genus:Sauromalus locality:Kino stateprovince:&#34;Sonora&#34;" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "Aspidoscelis hastissue=1 year&gt;2000" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;2005" ; Times: 1
+	Query: "Rana pretiosa mappable:1" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "distance(location,geopoint(44.6577752129955,-93.9097548854255))&lt;12648" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus institutioncode:MSB" ; Times: 2
+	Query: "50785" ; Times: 1
+	Query: "genus:uta year &gt;= 1980 institutioncode:MSB" ; Times: 2
+	Query: "156142" ; Times: 1
+	Query: "crotalus molossus stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "colorado lizard" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 4
+	Query: "88765" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 2
+	Query: "catalognumber:83339 institutioncode:MSB" ; Times: 1
+	Query: "genus:Ascaphus" ; Times: 2
+	Query: "Dipsosaurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:tigris class:Reptilia county:&#34;cochise&#34;" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;colorado&#34;" ; Times: 2
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Siskiyou&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1169 download events in this period)
+Total number of records downloaded: 11949
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 15
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-08 ; Times: 5
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "island specificepithet:texanus genus:cophosaurus class:reptilia institutioncode:MSB" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "genus:Sceloporus year &gt;= 1990 institutioncode:MSB" ; Times: 1
+	Query: "taricha granulosa" ; Times: 4
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus institutioncode:MSB" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Eleutherodactylus cochranae" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "genus:Sceloporus year &gt;= 1980 institutioncode:MSB" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "locality:Black Hills National Forest" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 2
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta class:reptilia stateprovince:&#34;new mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
