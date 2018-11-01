@@ -1,0 +1,216 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1509
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 140
+	Country: Mexico ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 12
+	Date: 2018-10-02 ; Times: 76
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-09 ; Times: 3
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-12 ; Times: 14
+	Date: 2018-10-11 ; Times: 8
+	Date: 2018-10-10 ; Times: 4
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:84845 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34; distance(location,geopoint(30.96878373061891,-97.06096206655627))&lt;100000" ; Times: 1
+	Query: "catalognumber:74897 institutioncode:MSB" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "sonora semiannulata" ; Times: 2
+	Query: "Sistrurus catenatus edwardsii" ; Times: 1
+	Query: "catalognumber:90219 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83409 institutioncode:MSB" ; Times: 2
+	Query: "NK 53277" ; Times: 2
+	Query: "terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:83419 institutioncode:MSB" ; Times: 2
+	Query: "genus:aspidoscelis (skeleton)" ; Times: 1
+	Query: "catalognumber:74886 institutioncode:MSB" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Aspidoscelis sexlineata stateprovince:&#34;nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:74936 institutioncode:MSB" ; Times: 2
+	Query: "rana blairi ku" ; Times: 1
+	Query: "catalognumber:83495 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90205 institutioncode:MSB" ; Times: 2
+	Query: "NK 53269" ; Times: 2
+	Query: "catalognumber:84833 institutioncode:MSB" ; Times: 2
+	Query: "Reptilia moffat Colorado" ; Times: 7
+	Query: "specificepithet:marmorata genus:aspidoscelis haslength:1" ; Times: 1
+	Query: "terrapene ornata stateprovince:&#34;Nebraska&#34; year &gt;= 1970" ; Times: 1
+	Query: "Aspidoscelis sexlineata stateprovince:&#34;nebraska&#34; year &gt;= 1971" ; Times: 3
+	Query: "specificepithet:chiricahuensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crotalus moffat Colorado" ; Times: 1
+	Query: "specificepithet:imbricata genus:eretmochelys country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:74932 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:82183 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:86381 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys country:&#34;United States&#34; year &gt;= 1910 year &lt;= 1940" ; Times: 1
+	Query: "catalognumber:74669 institutioncode:MSB" ; Times: 2
+	Query: "9529" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "class:reptilia continent:North America institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptile 9263" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34; distance(location,geopoint(31.269753442248042,-98.02775894155627))&lt;100000" ; Times: 1
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "genus:crotalus county:&#34;wayne&#34; stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "Ambystoma macrodactylum" ; Times: 3
+	Query: "catalognumber:74663 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:84837 institutioncode:MSB" ; Times: 2
+	Query: "county:&#34;Hidalgo&#34; institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:90206 institutioncode:MSB" ; Times: 4
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "catalognumber:74885 institutioncode:MSB" ; Times: 2
+	Query: "genus:aspidoscelis preparations:skeleton" ; Times: 3
+	Query: "catalognumber:90216 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "catalognumber:74894 institutioncode:MSB" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "catalognumber:74983 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74926 institutioncode:MSB" ; Times: 2
+	Query: "elaphe utah" ; Times: 1
+	Query: "specificepithet:hyperythra genus:aspidoscelis" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "catalognumber:84841 institutioncode:MSB" ; Times: 2
+	Query: "regina grahamii" ; Times: 1
+	Query: "catalognumber:89198 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:84847 institutioncode:MSB" ; Times: 2
+	Query: "Thamnophis radix stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "catalognumber:83399 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:90220 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83417 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aspidoscelis sexlineata" ; Times: 1
+	Query: "155817" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "catalognumber:89460 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:sackii genus:aspidoscelis" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "HERP 90733" ; Times: 1
+	Query: "rana blairi" ; Times: 2
+	Query: "genus:Plethodon specificepithet:dorsalis" ; Times: 1
+	Query: "specificepithet:uniparens genus:aspidoscelis preparations:skeleton" ; Times: 1
+	Query: "Reptilia moffat" ; Times: 1
+	Query: "sistrurus edwardsii" ; Times: 2
+	Query: "class:amphibia continent:North America institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "Zonata" ; Times: 2
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34; distance(location,geopoint(30.96878373061891,-97.06096206655627))&lt;127263" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys year &gt;= 1800 year &lt;= 1940" ; Times: 2
+	Query: "rana chiricahuensis" ; Times: 1
+	Query: "genus:Hyla specificepithet:wrightorum" ; Times: 1
+	Query: "catalognumber:83456 institutioncode:MSB" ; Times: 1
+	Query: "catalognumber:74667 institutioncode:MSB" ; Times: 2
+	Query: "reptile baja california" ; Times: 1
+	Query: "catalognumber:89387 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:74662 institutioncode:MSB" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1300 download events in this period)
+Total number of records downloaded: 7501
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Canada ; Times: 1
+	Country: India ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Aspidoscelis sexlineata stateprovince:&#34;nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:chiricahuensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Micrurus Mexico" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Liochlorophis vernalis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "sistrurus edwardsii" ; Times: 1
+	Query: "class:amphibia continent:North America institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "dipsosaurus arizona" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "Thamnophis radix stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "reptile baja california" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
