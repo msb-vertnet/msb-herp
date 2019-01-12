@@ -1,0 +1,225 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 1593
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 125
+	Country: Mexico ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 4
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-28 ; Times: 7
+	Date: 2018-12-19 ; Times: 8
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 9
+	Date: 2018-12-12 ; Times: 6
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 5
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 4
+	Date: 2018-12-06 ; Times: 7
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 5
+	Date: 2018-12-05 ; Times: 16
+	Date: 2018-12-02 ; Times: 21
+	Date: 2018-12-03 ; Times: 10
+	Date: 2018-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "badger" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "HERP 84998" ; Times: 1
+	Query: "Reptilia texas harrison" ; Times: 1
+	Query: "Allobates talamancae" ; Times: 2
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Diasporus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:orbiculare genus:Phrynosoma stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 2
+	Query: "genus:craugastor" ; Times: 1
+	Query: "order:Squamata county:&#34;Eddy&#34; year &gt;= 2000" ; Times: 1
+	Query: "Brokeoff stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "QUEEN stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "QUEEN class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Reptilia texas bowie" ; Times: 1
+	Query: "genus:Craugastor class:Amphibia county:&#34;Eddy&#34;" ; Times: 1
+	Query: "uta 7617" ; Times: 1
+	Query: "UTA 8225" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 2
+	Query: "institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "UTA 8339" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bosque&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(31.78439035799661,-104.8665800617436))&lt;100000" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "agalychnis spurrelli vntype:specimen hastissue:1" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "DOR order:Squamata county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "rana pretiosa l" ; Times: 2
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 2
+	Query: "ambystoma Arizona" ; Times: 4
+	Query: "class:Amphibia county:&#34;Eddy&#34; year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sitting bull Falls county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UTA 8193" ; Times: 2
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "specificepithet:HAMMONDII genus:spea locality:Olivenhein catalognumber:80030 institutioncode:MSB" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "137 county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(32.123463157388265,-104.85422044260298))&lt;8517.838219206596" ; Times: 1
+	Query: "Latella county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:woodhousii" ; Times: 1
+	Query: "Sitting bull Falls class:Amphibia county:&#34;Eddy&#34;" ; Times: 1
+	Query: "vntype:specimen genus:anolis hassex:1 distance(location,geopoint(5.169116202043349,-91.9482421875))&lt;1053278.578738553" ; Times: 1
+	Query: "genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates" ; Times: 2
+	Query: "genus:Cnemidophorus hastissue:1" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "genus:terrapene stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "apalone spinifera" ; Times: 1
+	Query: "alterna stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Rana pretiosa mappable:1" ; Times: 7
+	Query: "coluber flagellum" ; Times: 1
+	Query: "Sistrurus" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:sagrei genus:Anolis hassex:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "Brokeoff" ; Times: 2
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "catalognumber:75831 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "rana blairi" ; Times: 5
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "A. C. Bent" ; Times: 1
+	Query: "Leopold" ; Times: 1
+	Query: "specificepithet:HAMMONDII genus:spea locality:Olivenhein institutioncode:MSB" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.19786772966995,-104.78692918283735))&lt;12272.457135832428" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(32.123463157388265,-104.85422044260298))&lt;12272" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 20
+	Query: "12281" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "Sitting bull Falls class:Reptilia county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "vntype:specimen genus:anolis hassex:1 distance(location,geopoint(4.818888851655483,-92.1240234375))&lt;1053278.578738553" ; Times: 1
+	Query: "137 class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.16614582816268,-104.82872495003107))&lt;10911.378595869703" ; Times: 1
+	Query: "Crotalus cerastes stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 809 download events in this period)
+Total number of records downloaded: 15267
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Taiwan ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 11
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "rana blairi" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:anolis distance(location,geopoint(5.169116202043349,-91.9482421875))&lt;999357" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "genus:Cnemidophorus hastissue:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+
+
+End of report.
