@@ -1,0 +1,205 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 245
+Number of records retrieved in searches: 1703
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 4
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 93
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 120
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 5
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-11 ; Times: 18
+	Date: 2019-02-10 ; Times: 16
+	Date: 2019-02-13 ; Times: 7
+	Date: 2019-02-12 ; Times: 34
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 20
+	Date: 2019-02-18 ; Times: 24
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-01 ; Times: 4
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 61
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-25 ; Times: 8
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 7
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:spea recordedby:lippincott" ; Times: 1
+	Query: "specificepithet:Scutulatus genus:crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Viperidae haslength:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "genus:Salvadora hastissue:1" ; Times: 2
+	Query: "85469" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:Rowe year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "10817" ; Times: 1
+	Query: "recordedby:haynes" ; Times: 1
+	Query: "anniella santa cruz county" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:Rowe year &gt;= 1940 year &lt;= 1990" ; Times: 2
+	Query: "90935" ; Times: 1
+	Query: "catesbeianus haslength:1" ; Times: 1
+	Query: "Sauromalus" ; Times: 20
+	Query: "Crotalus scutulatus" ; Times: 31
+	Query: "genus:eumeces stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "94324" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Anolis barkeri" ; Times: 3
+	Query: "specificepithet:scutulatus genus:crotalus country:&#34;mexico&#34;" ; Times: 5
+	Query: "crotalinae" ; Times: 4
+	Query: "crotalus tigris" ; Times: 3
+	Query: "specificepithet:lepidus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "phelsuma" ; Times: 2
+	Query: "crotalus molossus" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:sagrei genus:anolis haslength:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "genus:Cnemidophorus institutioncode:MSB" ; Times: 1
+	Query: "genus:Phyllorhynchus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "Heterodon kennerlyi" ; Times: 2
+	Query: "specificepithet:atrox order:Squamata" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 24
+	Query: "genus:Pristimantis specificepithet:cruentus" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "recordedby:lippincott" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "agave" ; Times: 1
+	Query: "UTA 9631" ; Times: 1
+	Query: "Crotalus Obscurus" ; Times: 2
+	Query: "anolis barkeri" ; Times: 2
+	Query: "genus:Rana specificepithet:chiricahuensis" ; Times: 1
+	Query: "UTA 8193" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 3
+	Query: "genus:Bufo stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 6
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:scutulatus genus:crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "Aspidoscelis hyperythra" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:Rowe year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 18
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "&#34;Aspidoscelis hyperythra&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:crotalus" ; Times: 7
+	Query: "genus:Phyllorhynchus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana pretiosa mappable:1" ; Times: 2
+	Query: "anaxyrus microscaphus" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:lepidus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Leptotyphlops dissectus" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 1
+	Query: "genus:Agkistrodon year &gt;= 1899 year &lt;= 1910" ; Times: 2
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 9
+	Query: "genus:ARIZONA locality:San felipe country:&#34;mexico&#34;" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "crayfish" ; Times: 2
+	Query: "92705" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1227 download events in this period)
+Total number of records downloaded: 1411
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-11 ; Times: 12
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "phelsuma" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "order:Anura haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Aspidoscelis flagellicaudus" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 1
+	Query: "crotalinae" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+
+End of report.
