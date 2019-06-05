@@ -1,0 +1,226 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 5047
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 1
+	Country: Poland ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 150
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 9
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 8
+	Date: 2019-05-08 ; Times: 13
+	Date: 2019-05-07 ; Times: 15
+	Date: 2019-05-06 ; Times: 31
+	Date: 2019-05-05 ; Times: 4
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 13
+	Date: 2019-05-01 ; Times: 12
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-24 ; Times: 5
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-21 ; Times: 9
+	Date: 2019-05-20 ; Times: 4
+	Date: 2019-05-23 ; Times: 7
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-29 ; Times: 7
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-16 ; Times: 6
+	Date: 2019-05-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Scott Edwards" ; Times: 3
+	Query: "84999" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "MSB 156182" ; Times: 2
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Sistrurus hasmass:1" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NK 53277" ; Times: 2
+	Query: "NK 53272" ; Times: 2
+	Query: "locality:not recorded year &gt;= 1900 year &lt;= 1949" ; Times: 1
+	Query: "anolis alvarezdeltoroi" ; Times: 1
+	Query: "specificepithet:sexlineata genus:Aspidoscelis" ; Times: 2
+	Query: "reptile lincoln New mexico" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:53248 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:mcallii genus:Phrynosoma county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lithobates tarahumarae MSB" ; Times: 1
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "locality:Caimito class:Reptilia " ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "NK 53266" ; Times: 2
+	Query: "NK 53269" ; Times: 2
+	Query: "institutioncode:msb" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "specificepithet:hobartsmithi genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sphenocephala genus:Rana stateprovince:&#34;Texas&#34; distance(location,geopoint(28.226244675365606,-97.56258188482957))&lt;1383432" ; Times: 1
+	Query: "spea intermontana colorado" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "vntype:specimen specificepithet:sphenocephala genus:Rana stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "vntype:specimen specificepithet:sphenocephala genus:Rana stateprovince:&#34;Texas&#34; distance(location,geopoint(27.98882390317793,-97.50765024420457))&lt;1383431.8826673478" ; Times: 1
+	Query: "genus:Gopherus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis mappable:1" ; Times: 14
+	Query: "genus:lampropeltis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Scott Edwards" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Rana blairi arkansas" ; Times: 1
+	Query: "genus:Arizona country:&#34;Mexico&#34;" ; Times: 3
+	Query: "allobates talamancae" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "MSB 155817" ; Times: 2
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;new mexico&#34; year &gt;= 1998 year &lt;= 2019" ; Times: 1
+	Query: "sonora semiannulata arizona" ; Times: 1
+	Query: "recordedby:Wiseman" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Victoria&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pyromelana" ; Times: 3
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "pituophis catenifer hasmass:1" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "MSB 53549" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea hastissue:1" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 1
+	Query: "carroll illinois pantherophis" ; Times: 1
+	Query: "genus:Bufo stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "reptile amphibian lincoln New mexico" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;new mexico&#34; hastissue:1" ; Times: 4
+	Query: "Bufo baxteri institutioncode:MSB" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "carroll illinois coluber" ; Times: 1
+	Query: "crotalus pricei" ; Times: 4
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "MSB 155835" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "recordnumber:396" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "MSB 76886" ; Times: 1
+	Query: "MSB 155850" ; Times: 7
+	Query: "Ambystoma rocky national" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "specificepithet:henshawi genus:xantusia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "lithobates tarahumarae" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 5
+	Query: "class:Reptilia distance(location,geopoint(29.258871251165782,-103.29821648713425))&lt;8242" ; Times: 1
+	Query: "genus:Urosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "contortrix missouri" ; Times: 3
+	Query: "specificepithet:humilis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "91493" ; Times: 1
+	Query: "order:Anura lengthtype:snout-vent length range haslength:1" ; Times: 1
+	Query: "PYROMELANA" ; Times: 1
+	Query: "Rana chiricahuensis institutioncode:MSB" ; Times: 1
+	Query: "allobates" ; Times: 1
+	Query: "genus:xantusia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "Rana chiricahuensis mappable:1" ; Times: 14
+	Query: "&#34;Gregory Schmitt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "NK 53248" ; Times: 2
+	Query: "Spea intermontana colorado" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "amphibian lincoln New mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 940 download events in this period)
+Total number of records downloaded: 5100
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Bangladesh ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 18
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis county:&#34;Mono&#34;" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 4
+
+
+End of report.
