@@ -1,0 +1,325 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 464
+Number of records retrieved in searches: 21887
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 438
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 6
+	Date: 2019-06-21 ; Times: 11
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-23 ; Times: 7
+	Date: 2019-06-24 ; Times: 11
+	Date: 2019-06-25 ; Times: 5
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-09 ; Times: 6
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 6
+	Date: 2019-06-04 ; Times: 9
+	Date: 2019-06-05 ; Times: 19
+	Date: 2019-06-02 ; Times: 9
+	Date: 2019-06-03 ; Times: 12
+	Date: 2019-06-01 ; Times: 2
+	Date: 2019-06-26 ; Times: 9
+	Date: 2019-06-27 ; Times: 7
+	Date: 2019-06-28 ; Times: 19
+	Date: 2019-06-29 ; Times: 5
+	Date: 2019-06-19 ; Times: 15
+	Date: 2019-06-30 ; Times: 11
+	Date: 2019-06-15 ; Times: 16
+	Date: 2019-06-14 ; Times: 23
+	Date: 2019-06-17 ; Times: 17
+	Date: 2019-06-11 ; Times: 112
+	Date: 2019-06-10 ; Times: 18
+	Date: 2019-06-13 ; Times: 92
+	Date: 2019-06-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 1
+	Query: "genus:Coluber" ; Times: 1
+	Query: "kinosternon colorado" ; Times: 1
+	Query: "genus:Elaphe specificepithet:obsoleta" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis family:Colubridae order:Squamata class:Reptilia stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "genus:Sauromalus specificepithet:obesus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 1
+	Query: "Sceloporus poinsetti hasmass:1" ; Times: 1
+	Query: "genus:Agkistrodon specificepithet:contortrix" ; Times: 1
+	Query: "genus:Ctenosaura specificepithet:similis" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:brevirostris" ; Times: 1
+	Query: "crotalus willardi obscurus" ; Times: 1
+	Query: "Terrapene ornata ornata" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Cophosaurus specificepithet:texanus" ; Times: 1
+	Query: "genus:Gopherus specificepithet:agassizii" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:albilabris" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 7
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "genus:ambystoma county:&#34;bernalillo&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 1
+	Query: "heloderma hastissue:1" ; Times: 1
+	Query: "genus:phrynosoma county:&#34;moffat&#34;" ; Times: 1
+	Query: "catalognumber:76863" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:cochranae" ; Times: 4
+	Query: "specificepithet:triangulum genus:lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 1
+	Query: "chiricahuensis" ; Times: 1
+	Query: "scientificname: Thamnophis eques AND county: Grant" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "micruroides" ; Times: 1
+	Query: "1932 AND Guadalupe NOT Ich" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Chionactis occipitalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 1
+	Query: "catalognumber:85545 institutioncode:MSB" ; Times: 1
+	Query: "Pyromelana" ; Times: 2
+	Query: "genus:Tantilla specificepithet:gracilis" ; Times: 1
+	Query: "genus:Hyla specificepithet:arenicolor" ; Times: 1
+	Query: "genus:lampropeltis country:&#34;mexico&#34;" ; Times: 5
+	Query: "Lampropeltis alterna New Mexico" ; Times: 4
+	Query: "specificepithet:semiannulata genus:sonora family:Colubridae order:Squamata class:Reptilia stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "apalone colorado" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 1
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 1
+	Query: "genus:Rhinocheilus specificepithet:lecontei" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "1932 AND Guadalupe" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:portoricensis" ; Times: 2
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:antillensis" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "reptilia yepomera" ; Times: 4
+	Query: "genus:Anaxyrus specificepithet:fowleri" ; Times: 1
+	Query: "genus:pituophis county:&#34;moffat&#34;" ; Times: 1
+	Query: "10691" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 4
+	Query: "genus:Incilius specificepithet:coniferus" ; Times: 1
+	Query: "dear" ; Times: 1
+	Query: "lampropeltis bernalillo county" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:hedricki" ; Times: 2
+	Query: "86159" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "Lampropeltis Pyromelana" ; Times: 5
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 1
+	Query: "Chionactis occipitalis county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 2
+	Query: "anaxyrus terrestris" ; Times: 1
+	Query: "newcomb" ; Times: 1
+	Query: "specificepithet:Contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis mappable:1" ; Times: 61
+	Query: "genus:phelsuma" ; Times: 1
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "specificepithet:savagei genus:Leptodactylus mappable:1" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "&#34;badger&#34;" ; Times: 1
+	Query: "specificepithet:sila genus:Smilisca mappable:1" ; Times: 2
+	Query: "genus:Hypsiglena specificepithet:jani" ; Times: 1
+	Query: "genus:Urosaurus specificepithet:graciosus" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:orbiculare" ; Times: 1
+	Query: "genus:Rhinella specificepithet:marina" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "catalognumber:74859 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:microcephalus genus:Dendropsophus mappable:1" ; Times: 2
+	Query: "genus:Chrysemys specificepithet:picta" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:concinna" ; Times: 2
+	Query: "genus:lampropeltis family:Colubridae order:Squamata class:Reptilia stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 3
+	Query: "specificepithet:sylvaticus genus:lithobates institutioncode:MSB" ; Times: 2
+	Query: "genus:Dicamptodon specificepithet:ensatus" ; Times: 1
+	Query: "genus:Ensatina specificepithet:eschscholtzii" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;colorado&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "genus:Amblyrhynchus specificepithet:cristatus" ; Times: 2
+	Query: "pyromelana" ; Times: 1
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "genus:ambystoma county:&#34;sandoval&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:canum genus:Gyalopion" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "85941" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "genus:Sceloporus specificepithet:cowlesi" ; Times: 1
+	Query: "genus:Gambelia specificepithet:wislizenii" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "la joya" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 3
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "genus:Terrapene specificepithet:ornata" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:consobrinus" ; Times: 1
+	Query: "kinosternon flavescens colorado" ; Times: 1
+	Query: "US 66-61" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Uma county:&#34;imperial&#34;" ; Times: 3
+	Query: "84342" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:elegans" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 2
+	Query: "genus:Chilomeniscus specificepithet:stramineus" ; Times: 1
+	Query: "86446" ; Times: 1
+	Query: "genus:Sonora specificepithet:semiannulata" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "specificepithet:Mcallii genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "genus:ambystoma year &gt;= 1975 year &lt;= 1975 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "Brown Bear" ; Times: 3
+	Query: "colorado bent reptilia" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca mappable:1" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 3
+	Query: "genus:Dipsosaurus specificepithet:dorsalis" ; Times: 1
+	Query: "bufo baxteri" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:callicephalus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "amphibian distance(location,geopoint(34.79918703425052,-120.24009881250885))&lt;246471" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "Pipiens San Juan Utah" ; Times: 2
+	Query: "Reptilia Jefferson colorado" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 5
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "84370" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Lithobates mappable:1" ; Times: 16
+	Query: "sternotherus odoratus preparations:dry" ; Times: 1
+	Query: "genus:Emydoidea specificepithet:blandingii" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Conolophus specificepithet:subcristatus" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; (viridis OR oreganus OR cerberus)" ; Times: 1
+	Query: "genus:Trimorphodon specificepithet:vilkinsonii" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "crotalus atrox" ; Times: 3
+	Query: "lithobates tarahumarae" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "genus:Leptodeira specificepithet:splendida" ; Times: 1
+	Query: "genus:Anniella" ; Times: 1
+	Query: "genus:Crotalus specificepithet:atrox" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:melanonotus" ; Times: 1
+	Query: "83502" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;wyoming&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Incilius specificepithet:occidentalis" ; Times: 1
+	Query: "genus:Chionactis specificepithet:occipitalis" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 20
+	Query: "genus:Agkistrodon specificepithet:piscivorus" ; Times: 1
+	Query: "specificepithet:Inornata genus:Aspidoscelis county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 5
+	Query: "genus:Diadophis" ; Times: 1
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 3
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 1
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:lentus" ; Times: 2
+	Query: "genus:Lithobates specificepithet:sylvaticus" ; Times: 1
+	Query: "genus:craugastor hastissue:1" ; Times: 1
+	Query: "Bufo baxteri mappable:1" ; Times: 4
+	Query: "genus:Pseudacris specificepithet:streckeri" ; Times: 1
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "genus:crotalus county:&#34;moffat&#34;" ; Times: 1
+	Query: "genus:Sternotherus specificepithet:odoratus" ; Times: 1
+	Query: "catalognumber:88913" ; Times: 1
+	Query: "Rana chiricahuensis mappable:1" ; Times: 58
+	Query: "genus:Plestiodon specificepithet:obsoletus" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:baurii" ; Times: 1
+	Query: "genus:Spea specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Crotalus specificepithet:horridus" ; Times: 1
+	Query: "genus:Salvadora specificepithet:deserticola" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 3
+	Query: "genus:Graptemys specificepithet:geographica" ; Times: 1
+	Query: "genus:Sauromalus specificepithet:ater" ; Times: 2
+	Query: "genus:Crotalus specificepithet:ruber" ; Times: 1
+	Query: "genus:Eretmochelys specificepithet:imbricata" ; Times: 1
+	Query: "msb 91470" ; Times: 2
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "craugastor" ; Times: 3
+	Query: "brown bear" ; Times: 2
+	Query: "genus:Phyllorhynchus specificepithet:decurtatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1182 download events in this period)
+Total number of records downloaded: 1898
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 34
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 9
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:caudata" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "beaver" ; Times: 9
+	Query: "BEAVER" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "genus:Anolis" ; Times: 1
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "scientificname: Thamnophis eques AND county: Grant" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+
+
+End of report.
