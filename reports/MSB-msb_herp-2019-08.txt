@@ -1,0 +1,299 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 314
+Number of records retrieved in searches: 6037
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Bolivia ; Times: 2
+	Country: United States ; Times: 246
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 20
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 12
+	Date: 2019-08-01 ; Times: 6
+	Date: 2019-08-02 ; Times: 9
+	Date: 2019-08-03 ; Times: 3
+	Date: 2019-08-04 ; Times: 8
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-06 ; Times: 7
+	Date: 2019-08-07 ; Times: 17
+	Date: 2019-08-08 ; Times: 17
+	Date: 2019-08-09 ; Times: 12
+	Date: 2019-08-24 ; Times: 8
+	Date: 2019-08-25 ; Times: 5
+	Date: 2019-08-22 ; Times: 5
+	Date: 2019-08-23 ; Times: 14
+	Date: 2019-08-20 ; Times: 16
+	Date: 2019-08-21 ; Times: 6
+	Date: 2019-08-17 ; Times: 3
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 24
+	Date: 2019-08-14 ; Times: 6
+	Date: 2019-08-13 ; Times: 18
+	Date: 2019-08-12 ; Times: 6
+	Date: 2019-08-11 ; Times: 11
+	Date: 2019-08-10 ; Times: 24
+	Date: 2019-08-31 ; Times: 8
+	Date: 2019-08-30 ; Times: 7
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-18 ; Times: 3
+	Date: 2019-08-26 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla yaquia" ; Times: 1
+	Query: "specificepithet:browni" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "Caiman yacare mappable:1" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Hypsiglena jani" ; Times: 1
+	Query: "vntype:specimen specificepithet:integrum genus:Kinosternon locality:Nayarit" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 10
+	Query: "tantilla planiceps" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MSB" ; Times: 6
+	Query: "aspidoscelis inornata" ; Times: 3
+	Query: "genus:Aspidoscelis county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "A-88643" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Holbrookia Colorado Montezuma" ; Times: 2
+	Query: "Lithobates chiricahuensis" ; Times: 13
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Leptodactylus albilabris mappable:1" ; Times: 1
+	Query: "sistrurus edwardsii" ; Times: 6
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 2
+	Query: "Rana warszewitschii mappable:1" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 10
+	Query: "Craugastor fitzingeri mappable:1" ; Times: 1
+	Query: "specificepithet:olympicus genus:rhyacotriton stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "crotalus tigris" ; Times: 6
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "Moffat reptilia" ; Times: 1
+	Query: "genus:Masticophis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 15
+	Query: "caiman latirostris" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "sistrurus" ; Times: 4
+	Query: "56339" ; Times: 1
+	Query: "Lithobates yavapaiensis mappable:1" ; Times: 2
+	Query: "sistrurus catenatus edwardsii" ; Times: 2
+	Query: "Rana aurora" ; Times: 9
+	Query: "Gopherus agassizii" ; Times: 12
+	Query: "genus:sistrurus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Tantilla hastissue:1" ; Times: 1
+	Query: "vntype:specimen locality:nayarit" ; Times: 1
+	Query: "terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Crotalus Pricei" ; Times: 2
+	Query: "locality:rainbow" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "anaxyrus woodhousii" ; Times: 1
+	Query: "aspidoscelis velox arizona" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "recordnumber:244" ; Times: 1
+	Query: "Crotalus Obscurus" ; Times: 3
+	Query: "heterodon nasicus" ; Times: 5
+	Query: "Kinosternon integrum" ; Times: 1
+	Query: "Moffat reptilia colorado" ; Times: 4
+	Query: "pyromelana" ; Times: 2
+	Query: "Thamnophis elegans Arizona" ; Times: 3
+	Query: "Moffat crotalus colorado" ; Times: 2
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "vntype:specimen genus:arizona family:colubridae country:&#34;mexico&#34; year &gt;= 1965 year &lt;= 1980" ; Times: 1
+	Query: "Carrizo Creek arizona" ; Times: 1
+	Query: "moffat thamnophis" ; Times: 2
+	Query: "specificepithet:tigris genus:crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 2
+	Query: "7159" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:integrum genus:Kinosternon stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 2
+	Query: "(83337) institutioncode:MSB" ; Times: 2
+	Query: "Terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:deserticola genus:salvadora" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 10
+	Query: "genus:Pituophis stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "specificepithet:tigris genus:crotalus county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "county:&#34;culberson&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "28574" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:terrestris" ; Times: 5
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "specificepithet:browni class:reptilia (browni)" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "CAIMAN LATIROSTRIS" ; Times: 1
+	Query: "aneides hardii" ; Times: 2
+	Query: "Smilisca sordida" ; Times: 1
+	Query: "specificepithet:robinsoni genus:Anolis" ; Times: 1
+	Query: "Graptemys pseudogeographica" ; Times: 3
+	Query: "Hyla eximia" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "Anaxyrus debilis mappable:1" ; Times: 5
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Craugastor augusti mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Moffat triangulum colorado" ; Times: 1
+	Query: "Craugastor bransfordii mappable:1" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "catalognumber:83337 institutioncode:MSB" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:Aneides county:&#34;Trinity&#34;" ; Times: 1
+	Query: "82270" ; Times: 1
+	Query: "genus:Diadophis institutioncode:MSB hastissue:1" ; Times: 2
+	Query: "genus:Chionactis locality:San Felipe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "Salvadora grahamiae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 2
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "Leptodactylus albilabris" ; Times: 1
+	Query: "Anaxyrus microscaphus mappable:1" ; Times: 1
+	Query: "terrapene ornata" ; Times: 4
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 9
+	Query: "specificepithet:Getula genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Thamnophis rufipunctatus" ; Times: 4
+	Query: "Snow lake New Mexico" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "genus:Diadophis hastissue:1" ; Times: 1
+	Query: "genus:Dicamptodon specificepithet:ensatus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:inornata family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Hyla wrightorum mappable:1" ; Times: 2
+	Query: "salvadora grahamiae gila" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus san diego" ; Times: 1
+	Query: "genus:spea locality:rainbow" ; Times: 1
+	Query: "kinosternon flavescens arizona" ; Times: 1
+	Query: "salvadora grahamiae Arizona" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 1
+	Query: "Crotalus Hidalgo Mexico" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1034 download events in this period)
+Total number of records downloaded: 2886
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 26
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-01 ; Times: 9
+	Date: 2019-08-02 ; Times: 10
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-04 ; Times: 7
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:inornatus family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "(kingdom:animalia) (hasmass:1) (haslifestage:1) (vntype:specimen)" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 1
+	Query: "batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Aspidoscelis costata" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Tantilla yaquia" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Holbrookia elegans" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "sistrurus edwardsii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "sistrurus catenatus edwardsii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Diadophis hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "specificepithet:inornata family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:inornata family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 2
+	Query: "rhinella marina" ; Times: 2
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
