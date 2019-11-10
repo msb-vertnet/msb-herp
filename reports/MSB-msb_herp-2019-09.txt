@@ -1,0 +1,380 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 402
+Number of records retrieved in searches: 9442
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Kuwait ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 377
+	Country: Uruguay ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 8
+	Date: 2019-09-17 ; Times: 9
+	Date: 2019-09-10 ; Times: 6
+	Date: 2019-09-11 ; Times: 14
+	Date: 2019-09-12 ; Times: 21
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 40
+	Date: 2019-09-19 ; Times: 14
+	Date: 2019-09-30 ; Times: 19
+	Date: 2019-09-09 ; Times: 16
+	Date: 2019-09-08 ; Times: 6
+	Date: 2019-09-03 ; Times: 9
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 6
+	Date: 2019-09-06 ; Times: 55
+	Date: 2019-09-05 ; Times: 12
+	Date: 2019-09-04 ; Times: 29
+	Date: 2019-09-21 ; Times: 23
+	Date: 2019-09-20 ; Times: 22
+	Date: 2019-09-23 ; Times: 10
+	Date: 2019-09-22 ; Times: 10
+	Date: 2019-09-25 ; Times: 21
+	Date: 2019-09-24 ; Times: 9
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 8
+	Date: 2019-09-29 ; Times: 13
+	Date: 2019-09-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "institutioncode:MSB Herp" ; Times: 2
+	Query: "collectioncode:Amphibian and reptile specimens institutioncode:MSB hastissue:1" ; Times: 7
+	Query: "Hitchcock creek" ; Times: 1
+	Query: "class:Reptilia county:&#34;Plumas&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SDNHM)" ; Times: 1
+	Query: "order:anura haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crotalus Cerberus" ; Times: 2
+	Query: "Lions" ; Times: 2
+	Query: "apalone mutica" ; Times: 1
+	Query: "msb delaware reptile" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MSB" ; Times: 5
+	Query: "specificepithet:modestum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "specificepithet:decurtatus genus:phyllorhynchus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "(Pantherophis OR Elaphe) (guttatus OR guttata OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 3
+	Query: "Diadophis hastissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;plumas&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "genus:craugastor stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 1
+	Query: "specificepithet:aucoinae genus:Incilius" ; Times: 1
+	Query: "msb amphibian and reptile collection maryland" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "vntype:specimen genus:Apalone stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "class:Reptilia institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; distance(location,geopoint(35.40058605939291,-101.37433816395258))&lt;34620.46525113693" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "terrapene prince william" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 10
+	Query: "Crotalus cerberus" ; Times: 3
+	Query: "genus:Pituophis class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "Caiman latirostris" ; Times: 7
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "institutioncode:msb" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MSB" ; Times: 1
+	Query: "coleonyx variegatus month &gt;= 9 month &lt;= 11" ; Times: 2
+	Query: "locality:Nevada Test Site county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Urosaurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Kirtland" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "10430" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:hedricki" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1980 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1960 month &gt;= 1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "vntype:specimen specificepithet:multiplicata genus:Spea stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:microcephalus genus:dendropsophus" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sistrurus colorado" ; Times: 5
+	Query: "institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "genus:Pituophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:dry" ; Times: 1
+	Query: "genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "woodhousii specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "hemiophrys" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Arizona county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "anaxyrus baxteri" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "graptemys geographica wisconsin" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "collectioncode:Amphibian and reptile specimens institutioncode:MSB" ; Times: 2
+	Query: "genus:Sonora" ; Times: 1
+	Query: "Regina grahamii" ; Times: 2
+	Query: "genus:Hypsiglena county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 4
+	Query: "baxteri" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Bufo woodhousii specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "phelsuma laticauda" ; Times: 2
+	Query: "Reptilia Nebraska" ; Times: 2
+	Query: "specificepithet:costata genus:aspidoscelis stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vocator genus:Diasporus" ; Times: 1
+	Query: "genus:Hypsiglena hastissue:1" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "pituophis catenifer sayi" ; Times: 2
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "class:Reptilia county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "genus:Bufo county:&#34;Imperial&#34; year &gt;= 1955" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "genus:Tantilla county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "heterodon mexico" ; Times: 1
+	Query: "institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "graptemys pseudogeographica" ; Times: 1
+	Query: "genus:spea year &gt;= 1990 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "msb maryland" ; Times: 2
+	Query: "crotalus institutioncode:MSB" ; Times: 1
+	Query: "Tennessee lithobates" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:humilis genus:Leptotyphlops class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 4
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "class:Reptilia county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 24
+	Query: "Coluber flagellum" ; Times: 2
+	Query: "salvadora grahamiae Gila" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 2
+	Query: "county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "genus:Ascaphus locality:Quartz" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "class:Amphibia locality:Urique stateprovince:&#34;Chihuahua&#34;" ; Times: 2
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "specificepithet:arenicolor genus:hyla county:&#34;coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Crotalus lepidus lepidus" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:barkeri genus:Anolis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PBDB NOT UCMP NOT YPM )" ; Times: 1
+	Query: "order:Squamata year &gt;= 1990 institutioncode:MSB hastissue:1" ; Times: 4
+	Query: "genus:Ascaphus locality:Smith" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 34
+	Query: "genus:Pituophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "genus:Crotaphytus locality:Nevada Test Site county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "persons hypsiglena" ; Times: 3
+	Query: "specificepithet:ater genus:Sauromalus stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;COLORADO&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI)" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Urique stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "genus:Arizona county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Uta 7558" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 2010 year &lt;= 2019" ; Times: 1
+	Query: "pseudacris triseriata arizona" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys" ; Times: 2
+	Query: "graptemys la crosse wisconsin" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "msb delaware amphibian" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:coleonyx institutioncode:MSB" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "order:Anura catalognumber:96213" ; Times: 1
+	Query: "Liochlorophis vernalis" ; Times: 2
+	Query: "specificepithet:arenicolus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 3
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "MSB 77143" ; Times: 2
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 11
+	Query: "genus:Phyllorhynchus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Zonata" ; Times: 4
+	Query: "Texas genus:Sonora" ; Times: 3
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (gutattus OR gutatta OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "Crotalus Obscurus" ; Times: 13
+	Query: "institutioncode:MSB" ; Times: 3
+	Query: "specificepithet:bimaculosus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "crotalus atrox" ; Times: 1
+	Query: "(clemmys guttata)" ; Times: 1
+	Query: "genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:Caiman" ; Times: 1
+	Query: "persons catenifer" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "genus:spea institutioncode:MSB" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT FLAGELLUM NOT LATERALIS)" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1073 download events in this period)
+Total number of records downloaded: 16206
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 45
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-18 ; Times: 9
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 13
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus hastissue:1" ; Times: 2
+	Query: "boreas" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "Amphibia Oklahoma" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "vntype:specimen specificepithet:multiplicata genus:Spea stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "order:anura lengthtype:snout-vent length haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "Reptilia Colorado" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "locustus" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Amphibia Missouri" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New Mexico&#34; institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:costata genus:aspidoscelis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Reptilia Oklahoma" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+
+
+End of report.
