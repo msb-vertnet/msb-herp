@@ -1,0 +1,214 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 2072
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 81
+	Country: Germany ; Times: 25
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 4
+	Date: 2019-12-24 ; Times: 41
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 4
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-10 ; Times: 11
+	Date: 2019-12-11 ; Times: 6
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 4
+	Date: 2019-12-30 ; Times: 16
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 15
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-03 ; Times: 25
+	Date: 2019-12-02 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "specificepithet:fowleri genus:Anaxyrus" ; Times: 2
+	Query: "Trachemys scripta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 9
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:baxteri genus:Anaxyrus" ; Times: 2
+	Query: "ctenosaura" ; Times: 2
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:aucoinae genus:Incilius" ; Times: 2
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "specificepithet:occidentalis genus:sceloporus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2015" ; Times: 1
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "specificepithet:RUBER genus:Pseudotriton stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "specificepithet:punctatus family:bufonidae county:&#34;Yuma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "willardi mexico" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Anaxyrus" ; Times: 2
+	Query: "Ambystoma tigrinum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "rana pretiosa MSB" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus" ; Times: 1
+	Query: "88850" ; Times: 1
+	Query: "Phrynosoma cornutum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:gilberti class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Lampropeltis triangulum hasmass:1" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon institutioncode:MSB" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "Crotalus molossus hasmass:1" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus" ; Times: 2
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:terrestris genus:Anaxyrus" ; Times: 1
+	Query: "Emydoidea" ; Times: 1
+	Query: "Crotalus scutulatus haslength:1" ; Times: 1
+	Query: "phelsuma laticauda" ; Times: 1
+	Query: "carphophis vermis" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "specificepithet:hexalepis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:coccifer genus:Incilius" ; Times: 2
+	Query: "hyla arenicolor mexico" ; Times: 1
+	Query: "specificepithet:agassizii class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "MSB 84837" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "Thamnophis cyrtopsis haslength:1" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Incilius" ; Times: 2
+	Query: "specificepithet:microscaphus genus:Anaxyrus" ; Times: 2
+	Query: "Trachemys scripta haslength:1" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "MSB 83399" ; Times: 1
+	Query: "Crotalus molossus haslength:1" ; Times: 1
+	Query: "specificepithet:draconoides class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "recordedby:Geluso" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 3
+	Query: "specificepithet:woodhousii genus:Anaxyrus" ; Times: 2
+	Query: "91317" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 6
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "crotalus scutulatus mexico" ; Times: 1
+	Query: "Thamnophis marcianus haslength:1" ; Times: 1
+	Query: "Chrysemys picta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Incilius" ; Times: 2
+	Query: "76706" ; Times: 1
+	Query: "hemidactylus mexico mexico" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus" ; Times: 2
+	Query: "MSB 74965" ; Times: 2
+	Query: "Thamnophis cyrtopsis hasmass:1" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "Crotalus viridis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "senticolis triaspis mexico" ; Times: 1
+	Query: "plestiodon brevirostris mexico" ; Times: 2
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "Lithobates catesbeianus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 7
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "genus:Diasporus hastissue:1" ; Times: 1
+	Query: "Rana pretiosa MSB" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Guadalupe Mountains National Park" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "aspidoscelis sackii mexico" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 2
+	Query: "order:Testudines stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "msb 87484" ; Times: 1
+	Query: "msb 87485" ; Times: 1
+	Query: "specificepithet:boreas genus:Anaxyrus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 596 download events in this period)
+Total number of records downloaded: 1753
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Belgium ; Times: 5
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 13
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
