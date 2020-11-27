@@ -1,0 +1,415 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 627
+Number of records retrieved in searches: 6494
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 493
+	Country: Sweden ; Times: 113
+	Country: China ; Times: 1
+	Country: Bosnia and Herzegovina ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 7
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-15 ; Times: 29
+	Date: 2019-11-14 ; Times: 29
+	Date: 2019-11-17 ; Times: 12
+	Date: 2019-11-16 ; Times: 75
+	Date: 2019-11-11 ; Times: 15
+	Date: 2019-11-10 ; Times: 37
+	Date: 2019-11-13 ; Times: 9
+	Date: 2019-11-12 ; Times: 79
+	Date: 2019-11-08 ; Times: 58
+	Date: 2019-11-09 ; Times: 48
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 100
+	Date: 2019-11-20 ; Times: 10
+	Date: 2019-11-21 ; Times: 8
+	Date: 2019-11-22 ; Times: 27
+	Date: 2019-11-23 ; Times: 4
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 8
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-27 ; Times: 7
+	Date: 2019-11-28 ; Times: 10
+	Date: 2019-11-29 ; Times: 7
+	Date: 2019-11-04 ; Times: 11
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-03 ; Times: 3
+	Date: 2019-11-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Mora&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2017" ; Times: 3
+	Query: "genus:anniella specificepithet:pulchra institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "Nevada lampropeltis" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2013" ; Times: 3
+	Query: "genus:Sistrurus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2018" ; Times: 3
+	Query: "Thamnophis rufipunctatus 2019" ; Times: 3
+	Query: "Crotalus viridis" ; Times: 4
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "anolis capito" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "genus:hyla county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boreas family:Bufonidae county:&#34;San Diego county&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 2017 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "Sistrurus catenatus 1984" ; Times: 4
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "genus:crotalus county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 2017 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;De Baca&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Doña Ana&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Los Alamos&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "20605" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Viridis genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "Lithobates chiricahuensis 1979" ; Times: 4
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sauromalus" ; Times: 1
+	Query: "craugastor augusti mexico" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Emydoidea blandingii mappable:1" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 1996 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Plethodon specificepithet:vehiculum" ; Times: 2
+	Query: "Rana pretiosa" ; Times: 2
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Baja California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "61-278" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "Gopherus agassizii 2011" ; Times: 7
+	Query: "Gopherus agassizii 2010" ; Times: 7
+	Query: "Gopherus agassizii 2017" ; Times: 7
+	Query: "Gopherus agassizii 2016" ; Times: 7
+	Query: "Storeria occipitomaculata mappable:1" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "FC stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Gopherus agassizii 2019" ; Times: 14
+	Query: "genus:bufo county:&#34;san juan county&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 2017 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &gt;= 1970 startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 2017 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 20
+	Query: "20757" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 4
+	Query: "Tropidoclonion lineatum mappable:1" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon institutioncode:MSB" ; Times: 3
+	Query: "Lithobates chiricahuensis 2013" ; Times: 4
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970 startdayofyear &lt;= 1970" ; Times: 1
+	Query: "Lithobates chiricahuensis 2016" ; Times: 4
+	Query: "Lithobates chiricahuensis 2017" ; Times: 4
+	Query: "Lithobates chiricahuensis 2015" ; Times: 4
+	Query: "Lithobates chiricahuensis 2018" ; Times: 4
+	Query: "Lithobates chiricahuensis 2019" ; Times: 4
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gopherus agassizii 2002" ; Times: 7
+	Query: "Gopherus agassizii 1976" ; Times: 7
+	Query: "willardi mexico" ; Times: 4
+	Query: "Gopherus agassizii 2007" ; Times: 7
+	Query: "Gopherus agassizii 2008" ; Times: 7
+	Query: "genus:charina specificepithet:bottae institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 4
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2012" ; Times: 4
+	Query: "Sistrurus catenatus 2010" ; Times: 4
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "Sistrurus catenatus 2019" ; Times: 4
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "sceloporus consobrinus" ; Times: 2
+	Query: "genus:Kinosternon year &gt;= 1969 year &lt;= 1971 institutioncode:MSB" ; Times: 1
+	Query: "class:Reptilia institutioncode:MSB" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "Aspidoscelis sexlineata stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "Lithobates chiricahuensis 2001" ; Times: 4
+	Query: "Lithobates chiricahuensis 2000" ; Times: 4
+	Query: "Sistrurus catenatus 2008" ; Times: 4
+	Query: "Lithobates chiricahuensis 2002" ; Times: 4
+	Query: "Lithobates chiricahuensis 2005" ; Times: 4
+	Query: "Lithobates chiricahuensis 2007" ; Times: 4
+	Query: "Lithobates chiricahuensis 2006" ; Times: 4
+	Query: "genus:anaxyrus county:&#34;san juan county&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 47
+	Query: "Sistrurus catenatus 1983" ; Times: 4
+	Query: "20532" ; Times: 1
+	Query: "Thamnophis eques mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Terrapene ornata ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970 startdayofyear &lt;= 1970" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 3
+	Query: "sceloporus arenicolus" ; Times: 4
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Roosevelt&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Kinosternon year &gt;= 1970 year &lt;= 1971 institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "MSB 74955" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "WILLARDI" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus mappable:1" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 2
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:agkistrodon specificepithet:contortrix institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 22
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis 1984" ; Times: 4
+	Query: "specificepithet:flagellum stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Anolis institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:baxteri" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Quay&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Cibola&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1983" ; Times: 3
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Doña Ana&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "sceloporus bimaculosus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "msb 9943" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Texas&#34; year &gt;= 2018 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "86593" ; Times: 1
+	Query: "specificepithet:nelsoni genus:terrapene order:testudines" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 81
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Los Alamos&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1982" ; Times: 3
+	Query: "distance(location,geopoint(39.1862197127719,-105.321721889218))&lt;125847.17822455" ; Times: 4
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "class:amphibia county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "Terrapene ornata ornata stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2006" ; Times: 3
+	Query: "Thamnophis rufipunctatus 2005" ; Times: 3
+	Query: "genus:Leptodactylus specificepithet:savagei" ; Times: 1
+	Query: "Nerodia cyclopion mappable:1" ; Times: 1
+	Query: "Terrapene ornata ornata stateprovince:&#34;Nebraska&#34; year &gt;= 1970 startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:nelsoni order:testudines" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "10565 Mexico" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lithobates chiricahuensis 1987" ; Times: 4
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lithobates chiricahuensis 1983" ; Times: 4
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ornatus genus:Crotalus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1367 download events in this period)
+Total number of records downloaded: 24892
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 59
+	Country: Germany ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 14
+	Date: 2019-11-22 ; Times: 9
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 10
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-23 ; Times: 5
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anolis institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:anniella specificepithet:pulchra institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "Aspidoscelis sexlineata stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:agkistrodon specificepithet:contortrix institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon institutioncode:MSB" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "class:Reptilia institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Plethodontidae order:Caudata continent:America" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+
+
+End of report.
