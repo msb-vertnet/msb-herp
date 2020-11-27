@@ -1,0 +1,386 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 357
+Number of records retrieved in searches: 4406
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: United States ; Times: 301
+	Country: Saudi Arabia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Rwanda ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 5
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 21
+	Date: 2019-10-21 ; Times: 15
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 5
+	Date: 2019-10-25 ; Times: 6
+	Date: 2019-10-22 ; Times: 64
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 9
+	Date: 2019-10-02 ; Times: 12
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 8
+	Date: 2019-10-06 ; Times: 4
+	Date: 2019-10-23 ; Times: 22
+	Date: 2019-10-24 ; Times: 44
+	Date: 2019-10-29 ; Times: 4
+	Date: 2019-10-18 ; Times: 7
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-12 ; Times: 11
+	Date: 2019-10-13 ; Times: 10
+	Date: 2019-10-10 ; Times: 17
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-16 ; Times: 10
+	Date: 2019-10-31 ; Times: 17
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 18
+	Date: 2019-10-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis rufipunctatus 2017" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Bufonidae hastissue:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2013" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leptodactylus sinaloa" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2018" ; Times: 1
+	Query: "gbifdatasetid:fb639e31-52eb-4998-afb1-984ee12aca0f" ; Times: 1
+	Query: "clemmys guttata" ; Times: 7
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "10109" ; Times: 1
+	Query: "vermis" ; Times: 2
+	Query: "reptile baja california distance(location,geopoint(31.20482028026612,-115.51667036567488))&lt;100000" ; Times: 1
+	Query: "msb delaware reptile" ; Times: 3
+	Query: "Lithobates chiricahuensis 1983" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "leptotyphlops sonora" ; Times: 1
+	Query: "order:Squamata institutioncode:MSB" ; Times: 2
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:MSB" ; Times: 2
+	Query: "Lithobates chiricahuensis 2013" ; Times: 1
+	Query: "reptile distance(location,geopoint(30.886950365488037,-116.02189457153253))&lt;104198" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gopherus agassizii 2011" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "msb virginia amphibian" ; Times: 1
+	Query: "msb reptilia maryland" ; Times: 2
+	Query: "specificepithet:cruentus genus:Pristimantis" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "MSB 96257" ; Times: 1
+	Query: "specificepithet:cowlesi genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2019" ; Times: 1
+	Query: "Sauromalus" ; Times: 16
+	Query: "lithobates berlandieri" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "New Mexico Ambystoma tigrinum vntype:specimen" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "Rana warszewitschii mappable:1" ; Times: 2
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "MSB 74965" ; Times: 1
+	Query: "dinosaur" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.00523095675059,-115.49243506689027))&lt;100000" ; Times: 1
+	Query: "bush dog" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "vntype:specimen specificepithet:marmorata genus:Aspidoscelis" ; Times: 1
+	Query: "Gopherus agassizii 2010" ; Times: 1
+	Query: "Gopherus agassizii 2017" ; Times: 1
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "crotalus klauberi new mexico" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Gopherus agassizii 2019" ; Times: 2
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "order:Anura institutioncode:MSB" ; Times: 1
+	Query: "msb virginia accomack" ; Times: 1
+	Query: "reptile distance(location,geopoint(30.741202026572406,-115.80005225439027))&lt;113568.68064110065" ; Times: 1
+	Query: "stateprovince:&#34;nevada&#34; reptile" ; Times: 1
+	Query: "sonora occipitalis" ; Times: 1
+	Query: "msb platania reptile" ; Times: 1
+	Query: "MSB 78152" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 3
+	Query: "genus:coluber stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:Alterna stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; AND (NOT KU NOT UF)" ; Times: 1
+	Query: "kinosternon integrum sinaloa" ; Times: 1
+	Query: "class:Reptilia institutioncode:MSB" ; Times: 2
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "msb herp delaware" ; Times: 1
+	Query: "lengthinmm &gt;= 200 lengthinmm &lt;= 1000 lengthtype:snout-vent length range" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "reptile baja california distance(location,geopoint(30.425970866739583,-115.95612349067488))&lt;100000" ; Times: 1
+	Query: "Lithobates chiricahuensis 2016" ; Times: 1
+	Query: "Lithobates chiricahuensis 2017" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Lithobates chiricahuensis 2015" ; Times: 1
+	Query: "Lithobates chiricahuensis 2018" ; Times: 1
+	Query: "Lithobates chiricahuensis 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:MSB" ; Times: 4
+	Query: "Gopherus agassizii 2002" ; Times: 1
+	Query: "Gopherus agassizii 1976" ; Times: 1
+	Query: "Gopherus agassizii 2007" ; Times: 1
+	Query: "Gopherus agassizii 2008" ; Times: 1
+	Query: "Texas genus:sonora" ; Times: 2
+	Query: "genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Anaxyrus mexicanus" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 4
+	Query: "Sistrurus catenatus 2012" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "specificepithet:bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "incilius coccifer" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "msb virginia reptile" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Sonora stramineus" ; Times: 2
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "New Mexico vntype:specimen (Ambystoma) institutioncode:MSB" ; Times: 1
+	Query: "Anolis porcatus mappable:1" ; Times: 1
+	Query: "Lithobates chiricahuensis 2000" ; Times: 1
+	Query: "crotalus willardi" ; Times: 15
+	Query: "Sonora semiannulata" ; Times: 4
+	Query: "Lithobates chiricahuensis 2005" ; Times: 1
+	Query: "Lithobates chiricahuensis 2007" ; Times: 1
+	Query: "Lithobates chiricahuensis 2006" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 2
+	Query: "Crotalus Obscurus" ; Times: 3
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "ctenosaura sinaloa" ; Times: 2
+	Query: "macrodactylum Ambystoma" ; Times: 8
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 2
+	Query: "locality:rancho recordedby:christopher" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "Sistrurus catenatus 1984" ; Times: 1
+	Query: "genus:Rana specificepithet:chiricahuensis" ; Times: 1
+	Query: "Sistrurus catenatus 2010" ; Times: 1
+	Query: "Lithobates chiricahuensis 1979" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 2
+	Query: "New Mexico vntype:specimen institutioncode:MSB" ; Times: 1
+	Query: "reptile distance(location,geopoint(28.776642801257953,-114.37182959814027))&lt;243223" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;san mateo&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:caiman hastissue:1" ; Times: 2
+	Query: "msb maryland reptilia" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.02406230551249,-115.69018897314027))&lt;93884.75383821045" ; Times: 1
+	Query: "Anaxyrus americanus mappable:1" ; Times: 12
+	Query: "genus:Carphophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Sistrurus catenatus 2019" ; Times: 1
+	Query: "order:anura lifestage:adult lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "msb maryland" ; Times: 2
+	Query: "order:Caudata institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:gorzugi family:Emydidae" ; Times: 1
+	Query: "genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "urosaurus ornatus sinaloa" ; Times: 1
+	Query: "thamnophis proximus mexico" ; Times: 1
+	Query: "Chilomeniscus stramineus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "MSB 74952" ; Times: 1
+	Query: "msb new jersey reptilia" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.59984735526638,-115.65597327765477))&lt;152164.6603398149" ; Times: 1
+	Query: "Gorzugi" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "phyllodactylus homolepidurus sinaloa" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "msb conant" ; Times: 2
+	Query: "genus:Gopherus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(39.46623407157865,-117.0666669298829))&lt;100000" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "msb new jersey reptile" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "msb 30498" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "reptile distance(location,geopoint(28.796306526906125,-103.37563839860803))&lt;100000" ; Times: 1
+	Query: "apalone spinifera" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 2
+	Query: "ctenosaura hemilopha sinaloa" ; Times: 1
+	Query: "crotalus willardi mexico" ; Times: 3
+	Query: "Pseudacris triseriata MSB" ; Times: 2
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "flamenco" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1983" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1982" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lithobates chiricahuensis 2001" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "msb virginia reptilia" ; Times: 1
+	Query: "Sistrurus catenatus 2008" ; Times: 1
+	Query: "msb delaware amphibian" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 3
+	Query: "Lithobates chiricahuensis 2002" ; Times: 1
+	Query: "MSB 95306" ; Times: 2
+	Query: "msb new jersey conant" ; Times: 1
+	Query: "msb platania amphibia" ; Times: 1
+	Query: "msb virginia" ; Times: 1
+	Query: "carphophis vermis" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii sinaloa" ; Times: 2
+	Query: "msb platania" ; Times: 1
+	Query: "MSB 77143" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2006" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2005" ; Times: 1
+	Query: "New Mexico Ambystoma vntype:specimen (Ambystoma)" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mcallii county:&#34;imperial&#34;" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "genus:pseudacris county:&#34;cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "reptilia stateprovince:&#34;nevada&#34; year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "conant accomack" ; Times: 2
+	Query: "specificepithet:ornatus genus:urosaurus hastissue:1" ; Times: 2
+	Query: "reptile distance(location,geopoint(31.74944477985944,-115.78780921515477))&lt;100000" ; Times: 2
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "MSB 98869" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "msb new jersey amphibian" ; Times: 2
+	Query: "Lithobates chiricahuensis 1984" ; Times: 1
+	Query: "Lithobates chiricahuensis 1987" ; Times: 1
+	Query: "reptile distance(location,geopoint(27.263740392056278,-115.07495459814027))&lt;394384" ; Times: 2
+	Query: "msb 30828" ; Times: 2
+	Query: "msb 6732" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "MSB 82218" ; Times: 2
+	Query: "MSB 95307" ; Times: 1
+	Query: "msb maryland amphibian" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "MSB 82216" ; Times: 2
+	Query: "reptile baja california" ; Times: 2
+	Query: "locality:rancho rd" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1308 download events in this period)
+Total number of records downloaded: 46368
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 38
+	Country: Rwanda ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-25 ; Times: 4
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-23 ; Times: 19
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "specificepithet:gorzugi family:Emydidae" ; Times: 1
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "order:Anura institutioncode:MSB" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:craugastor hastissue:1" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:caiman hastissue:1" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "order:anura lifestage:adult lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "order:Caudata institutioncode:MSB" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "class:Reptilia institutioncode:MSB" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(36.232556717823115,-120.1208661486329))&lt;338269.069619651" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "vntype:specimen specificepithet:marmorata genus:Aspidoscelis" ; Times: 1
+	Query: "reptile baja california distance(location,geopoint(31.279965062709955,-115.82428755317488))&lt;100000" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.59984735526638,-115.65597327765477))&lt;152164.6603398149" ; Times: 2
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Sonora stramineus" ; Times: 2
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
