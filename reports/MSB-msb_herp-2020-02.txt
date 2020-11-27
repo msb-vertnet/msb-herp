@@ -1,0 +1,256 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 2771
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Turkey ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 234
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 10
+	Date: 2020-02-02 ; Times: 4
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-01 ; Times: 12
+	Date: 2020-02-20 ; Times: 27
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-08 ; Times: 13
+	Date: 2020-02-09 ; Times: 22
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 24
+	Date: 2020-02-10 ; Times: 10
+	Date: 2020-02-13 ; Times: 11
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 7
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-16 ; Times: 13
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 12
+	Date: 2020-02-24 ; Times: 7
+	Date: 2020-02-25 ; Times: 7
+	Date: 2020-02-27 ; Times: 12
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "24101" ; Times: 1
+	Query: "specificepithet:callicephalus" ; Times: 2
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 7
+	Query: "Sistrurus catenatus catenatus" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 4
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "sonora semiannulata" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;imperial&#34;" ; Times: 2
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinocheilus lecontei hidalgo" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;imperial&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:concolor genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 5
+	Query: "porcupine" ; Times: 7
+	Query: "organ pipe class:amphibia county:&#34;pima&#34;" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "genus:Elgaria year &gt;= 2013 year &lt;= 2020" ; Times: 1
+	Query: "sonora semiannulata semiannulata" ; Times: 1
+	Query: "specificepithet:spurrelli genus:agalychnis hastissue:1" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Brewster county Texas (Lithobates catesbeianus)" ; Times: 1
+	Query: "Sonora UTA" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 2
+	Query: "87330" ; Times: 1
+	Query: "gaines county tx" ; Times: 1
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 3
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 9
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Imperial&#34; enddayofyear &lt;= 1920" ; Times: 1
+	Query: "l3" ; Times: 1
+	Query: "genus:Crotalus oreganus year &gt;= 2007 year &lt;= 2018" ; Times: 1
+	Query: "craugastor augusti" ; Times: 5
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "crotalus molossus" ; Times: 2
+	Query: "Rana blairi" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "KU and 4113" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 16
+	Query: "81138" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 3
+	Query: "institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Sinaloa&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34;" ; Times: 1
+	Query: "gaines county TX" ; Times: 1
+	Query: "specificepithet:tigris family:viperidae" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;galapagos&#34; country:&#34;ecuador&#34; institutioncode:MSB basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates sphenocephalus" ; Times: 2
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;galapagos&#34; country:&#34;ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Emydoidea" ; Times: 1
+	Query: "salvadora grahamiae" ; Times: 5
+	Query: "crotalus cerberus arizona" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 3
+	Query: "crotalus willardi" ; Times: 2
+	Query: "streckeri" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 5
+	Query: "genus:Dicamptodon specificepithet:tenebrosus" ; Times: 1
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "lampropeltis zonata" ; Times: 4
+	Query: "Aspidoscelis exsanguis" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:boreas" ; Times: 2
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 2
+	Query: "Anaxyrus baxteri" ; Times: 1
+	Query: "aspidoscelis sonorae" ; Times: 1
+	Query: "Sceloporus virgatus" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "genus:charina order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "Chilomeniscus stramineus" ; Times: 9
+	Query: "MSB 74952" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "(porcupine )" ; Times: 2
+	Query: "Elgaria coerulea coerulea" ; Times: 2
+	Query: "91643" ; Times: 1
+	Query: "crotalus pricei" ; Times: 6
+	Query: "Crotalus molossus" ; Times: 5
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 2
+	Query: "gyalopion canum" ; Times: 5
+	Query: "apalone spinifera" ; Times: 2
+	Query: "county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "(porcupine)" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 2
+	Query: "98369" ; Times: 3
+	Query: "anaxyrus microscaphus" ; Times: 2
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "rana blairi" ; Times: 3
+	Query: "craugastor" ; Times: 5
+	Query: "gastrophryne olivacea" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 6
+	Query: "87107" ; Times: 1
+	Query: "Phrynosoma mcalliI" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "boreas genus:Anaxyrus" ; Times: 2
+	Query: "Aspidoscelis flagellicaudus" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "Uma Yuma" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "elaphe guttata" ; Times: 2
+	Query: "11796" ; Times: 1
+	Query: "7742" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Imperial&#34;" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1023 download events in this period)
+Total number of records downloaded: 6674
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 11
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 1
+	Query: "institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Anguidae" ; Times: 2
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+
+
+End of report.
