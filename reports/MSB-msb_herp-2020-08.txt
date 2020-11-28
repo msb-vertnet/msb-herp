@@ -1,0 +1,265 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1559
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 144
+	Country: Sri Lanka ; Times: 2
+	Country: Sweden ; Times: 8
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-07 ; Times: 10
+	Date: 2020-08-17 ; Times: 10
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-14 ; Times: 4
+	Date: 2020-08-13 ; Times: 8
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-10 ; Times: 9
+	Date: 2020-08-31 ; Times: 7
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-18 ; Times: 13
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-01 ; Times: 10
+	Date: 2020-08-02 ; Times: 5
+	Date: 2020-08-03 ; Times: 21
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 16
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-29 ; Times: 5
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 14
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "locality:summit peak" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Gopherus" ; Times: 2
+	Query: "specificepithet:velox stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:slevini genus:sceloporus year &gt;= 1995 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "mappable:1 scientificname:Trachemys scripta scripta" ; Times: 1
+	Query: "MSB 94745" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Sceloporus consobrinus" ; Times: 8
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "80729" ; Times: 5
+	Query: "chiricahuensis vntype:specimen institutioncode:MSB" ; Times: 1
+	Query: "genus:sceloporus locality:Chiricahua stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 1980 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "genus:heterodon county:&#34;socorro&#34; stateprovince:&#34;New mexico&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "genus:sonora" ; Times: 1
+	Query: "Texas specificepithet:grahamii genus:Regina" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "genus:Senticolis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Colubridae county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:Arenicolor genus:Hyla stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Plethodon specificepithet:yonahlossee" ; Times: 2
+	Query: "specificepithet:chiricahuensis institutioncode:MSB" ; Times: 1
+	Query: "leptodeira splendida" ; Times: 1
+	Query: "specificepithet:vernalis genus:Liochlorophis" ; Times: 1
+	Query: "spea multiplicata" ; Times: 5
+	Query: "class:Amphibia &#34;Eleutherodactylus schwartzi&#34;" ; Times: 1
+	Query: "specificepithet:multivirgatus stateprovince:&#34;colorado&#34;" ; Times: 2
+	Query: "class:Amphibia &#34;Eleutherodactylus lentus&#34;" ; Times: 1
+	Query: "CRotalus willardi" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "chiricahuensis vntype:specimen year &gt;= 1972 year &lt;= 2020 institutioncode:MSB" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 2000 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "genus:Craugastor specificepithet:crassidigitus" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "mappable:1 scientificname:Graptemys geographica" ; Times: 1
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "lithobates pipiens" ; Times: 1
+	Query: "anaxyrus woodhousii" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "pantherophis" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "genus:crotalus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "Crotalus Obscurus" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "Aspidoscelis Hatch" ; Times: 1
+	Query: "8243" ; Times: 1
+	Query: "specificepithet:arenicolus genus:sceloporus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:yonahlossee genus:Plethodon stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "specificepithet:Concolor genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:aspidoscelis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon county:&#34;socorro&#34; stateprovince:&#34;New mexico&#34;" ; Times: 1
+	Query: "specificepithet:vernalis genus:opheodrys stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "crotalus viridis nuntius" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "crotalus nuntius" ; Times: 1
+	Query: "mappable:1 scientificname:Elaphe guttata" ; Times: 1
+	Query: "specimen records ASU" ; Times: 1
+	Query: "M-98664" ; Times: 1
+	Query: "M-98665" ; Times: 1
+	Query: "apalone spinifera" ; Times: 1
+	Query: "class:reptilia county:&#34;harrison&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "class:reptilia locality:pecos" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "MSB 74965" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "genus:phrynosoma stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 2
+	Query: "Crotalus viridis nuntius" ; Times: 2
+	Query: "vntype:specimen specificepithet:virgatus genus:sceloporus locality:Chiricahua country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "xantusia utah" ; Times: 1
+	Query: "specificepithet:Alterna genus:Lampropeltis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Graptemys pseudogeographica" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 3
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "recordedby:clark year &gt;= 1990" ; Times: 1
+	Query: "genus:crotalus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 3
+	Query: "UTA-R 3478" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "specificepithet:oreganus genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "USNM 8527" ; Times: 1
+	Query: "institutioncode:MSB" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:Micrurus " ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis locality:pecos river" ; Times: 1
+	Query: "specificepithet:Rufipunctatus stateprovince:&#34;New mexico&#34;" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "mappable:1 scientificname:Pseudemys concinna" ; Times: 1
+	Query: "specificepithet:ornata genus:Terrapene" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 756 download events in this period)
+Total number of records downloaded: 12743
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Switzerland ; Times: 1
+	Country: Sri Lanka ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-17 ; Times: 8
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "Texas genus:Leptotyphlops" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Texas specificepithet:grahamii genus:Regina" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "specificepithet:chiricahuensis institutioncode:MSB" ; Times: 1
+	Query: "leptodeira splendida" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus schwartzi&#34;" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus lentus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
