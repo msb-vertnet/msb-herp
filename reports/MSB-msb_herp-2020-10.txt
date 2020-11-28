@@ -1,0 +1,270 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 2718
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: El Salvador ; Times: 3
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 2
+	Country: United States ; Times: 143
+	Country: Ethiopia ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 15
+	Date: 2020-10-19 ; Times: 15
+	Date: 2020-10-08 ; Times: 5
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 6
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 5
+	Date: 2020-10-03 ; Times: 8
+	Date: 2020-10-23 ; Times: 6
+	Date: 2020-10-22 ; Times: 12
+	Date: 2020-10-21 ; Times: 7
+	Date: 2020-10-20 ; Times: 5
+	Date: 2020-10-27 ; Times: 9
+	Date: 2020-10-26 ; Times: 21
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 6
+	Date: 2020-10-01 ; Times: 12
+	Date: 2020-10-30 ; Times: 22
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-28 ; Times: 8
+	Date: 2020-10-05 ; Times: 8
+	Date: 2020-10-07 ; Times: 14
+	Date: 2020-10-06 ; Times: 11
+	Date: 2020-10-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (Ian Murray) institutioncode:MSB" ; Times: 1
+	Query: "44455" ; Times: 1
+	Query: "genus:Senticolis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:fb639e31-52eb-4998-afb1-984ee12aca0f" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "class:Amphibia county:&#34;willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 2
+	Query: "kinosternon integrum" ; Times: 2
+	Query: "Nerodia erythrogaster México" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:MSB" ; Times: 1
+	Query: "vntype:specimen (Latella) institutioncode:MSB" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:anniella county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "vntype:specimen (Murray) institutioncode:MSB" ; Times: 1
+	Query: "Incilius coccifer" ; Times: 3
+	Query: "specificepithet:pipiens genus:Lithobates" ; Times: 4
+	Query: "specificepithet:bottae genus:charina county:&#34;plumas&#34;" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "genus:spea year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "retiformis vekol" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "catalognumber:1601 institutioncode:MSB" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 3
+	Query: "Craugastoridae" ; Times: 1
+	Query: "specificepithet:blairi genus:rana stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "(581) institutioncode:MSB" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 2
+	Query: "catalognumber:83331 institutioncode:MSB" ; Times: 2
+	Query: "genus:hypsiglena county:&#34;sierra&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Thamnophis Ruch" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "10431" ; Times: 1
+	Query: "EEG" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "genus: diadophis hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "genus:trimorphodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Platte&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:hypsiglena county:&#34;san mateo&#34;" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Rana pipiens MSB" ; Times: 2
+	Query: "Crotalinae" ; Times: 3
+	Query: "*Crotalus vntype:specimen (Latella) institutioncode:MSB" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "7904" ; Times: 1
+	Query: "Rana pipiens MSB New Mexico" ; Times: 8
+	Query: "specificepithet:aurora county:&#34;humboldt&#34;" ; Times: 1
+	Query: "Anolis capito" ; Times: 3
+	Query: "7276" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "20582" ; Times: 1
+	Query: "Collins 1888" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Osteopilus AND (NOT Cuba NOT Bahamas NOT Florida NOT Cayman Islands)" ; Times: 1
+	Query: "Anolis maynardi" ; Times: 4
+	Query: "genus:Thamnophis county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "beaver jackson thamnophis" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;plumas&#34;" ; Times: 3
+	Query: "terrapene" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;utah&#34; specificepithet:&#34;triangulum&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "specificepithet:flagellum genus:coluber" ; Times: 1
+	Query: "catalognumber:83330 institutioncode:MSB" ; Times: 2
+	Query: "crotalus concolor" ; Times: 5
+	Query: "genus:Phyllorhynchus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; year &gt;= 1846" ; Times: 1
+	Query: "specificepithet:blairi genus:Lithobates stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis month &gt;= 9 month &lt;= 11" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "mappable:1 scientificname:Eretmochelys imbricata" ; Times: 2
+	Query: "65634" ; Times: 1
+	Query: "retiformis pima" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "Plethodon yonahlossee stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "porcupine" ; Times: 2
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "genus:Trachemys hastissue:1" ; Times: 6
+	Query: "genus:Contia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Madera Chihuahua" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Caiman latirostris" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 13
+	Query: "gopherus agassizi" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 3
+	Query: "genus:Pantherophis county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotalus ornatus" ; Times: 2
+	Query: "Eleutherodactylus hedricki" ; Times: 1
+	Query: "catenatus" ; Times: 1
+	Query: "mappable:1 scientificname:Caiman yacare" ; Times: 1
+	Query: "Thamnophis couchii" ; Times: 1
+	Query: "genus:Contia" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "catalognumber:83332 institutioncode:MSB" ; Times: 2
+	Query: "catalognumber:83329 institutioncode:MSB" ; Times: 2
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 8
+	Query: "specificepithet:orbiculare genus:phrynosoma year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "5046" ; Times: 1
+	Query: "Anolis alvarezdeltoroi" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1521 download events in this period)
+Total number of records downloaded: 1847
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 28
+	Country: Ethiopia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 9
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-05 ; Times: 7
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 4
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 3
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 2
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Amphibia county:&#34;willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Anolis capito" ; Times: 1
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "genus:Lithobates haslength:1" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Anolis alvarezdeltoroi" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+
+
+End of report.
