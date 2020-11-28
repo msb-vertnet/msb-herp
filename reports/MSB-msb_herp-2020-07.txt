@@ -1,0 +1,326 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 3694
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 234
+	Country: Ireland ; Times: 2
+	Country: Australia ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 6
+	Date: 2020-07-21 ; Times: 10
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-26 ; Times: 7
+	Date: 2020-07-25 ; Times: 11
+	Date: 2020-07-24 ; Times: 8
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 24
+	Date: 2020-07-05 ; Times: 9
+	Date: 2020-07-04 ; Times: 6
+	Date: 2020-07-07 ; Times: 26
+	Date: 2020-07-06 ; Times: 15
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-29 ; Times: 41
+	Date: 2020-07-19 ; Times: 9
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-10 ; Times: 15
+	Date: 2020-07-11 ; Times: 6
+	Date: 2020-07-30 ; Times: 23
+	Date: 2020-07-31 ; Times: 6
+	Date: 2020-07-14 ; Times: 6
+	Date: 2020-07-17 ; Times: 7
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eleutherodactylus specificepithet:lentus" ; Times: 1
+	Query: "Aspidoscelis inornata" ; Times: 2
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "11825" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 4
+	Query: "genus:Incilius" ; Times: 1
+	Query: "gbifdatasetid:fb639e31-52eb-4998-afb1-984ee12aca0f" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crotalus tigris mexico" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "emydoidea" ; Times: 2
+	Query: "specificepithet:multivirgatus family:Scincidae county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "regina grahamii" ; Times: 8
+	Query: "genus:gambelia stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "santa rita panama" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; (sandhills)" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 3
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;21343" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;15773" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Winston&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:phrynosoma class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:punctatus" ; Times: 2
+	Query: "specificepithet:pyromelana county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Aneides hardii" ; Times: 7
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "Hyla regilla MEXICO" ; Times: 1
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "crotalus viridis arizona" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 4
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 4
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "specificepithet:multivirgatus family:Scincidae county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 2
+	Query: "Crotaphytus Kino" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Anaxyrus terrestris" ; Times: 1
+	Query: "MSB 83775" ; Times: 2
+	Query: "class:Reptilia county:&#34;Curry&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "specificepithet:aucoinae family:bufonidae" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Weinstock" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Aspidoscelis tesselata" ; Times: 2
+	Query: "Eretmochelys imbricata mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; distance(location,geopoint(42.12847771467785,-101.38375592358057))&lt;61227" ; Times: 1
+	Query: "family:Anguidae county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 8
+	Query: "12348" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;New Mexico&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 2
+	Query: "hemidactylus mabouia mappable:1" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Liochlorophis" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Eleutherodactylus brittoni" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "locality:rocky ford stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;29768" ; Times: 1
+	Query: "locality:YEPOMERA" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 4
+	Query: "85227" ; Times: 1
+	Query: "MSB rana pipiens New Mexico" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Otero&#34;" ; Times: 1
+	Query: "Lithobates sphenocephalus" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;23665" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;100000" ; Times: 1
+	Query: "specificepithet:sirtalis year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 3
+	Query: "MSB 83338" ; Times: 2
+	Query: "specificepithet:taeniatus genus:Masticophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 2
+	Query: "MSB 74952" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 2
+	Query: "MSB 87481" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "genus:Aspidoscelis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;plumas&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "country:mexico genus:phrynosoma" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 5
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;100000" ; Times: 2
+	Query: "88053" ; Times: 1
+	Query: "heterodon kennerlyi" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "ranas" ; Times: 1
+	Query: "MSB Lithobates pipiens New Mexico" ; Times: 1
+	Query: "genus:Trachemys hastissue:1" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "UTA R-7072" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; distance(location,geopoint(42.12847771467785,-101.38375592358057))&lt;100000" ; Times: 1
+	Query: "crotalus lepidus klauberi new mexico" ; Times: 1
+	Query: "Graptemys pseudogeographica" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 7
+	Query: "class:amphibia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "MSB Lithobates pipiens" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+	Query: "craugastor" ; Times: 2
+	Query: "Tropidoclonion lineatum" ; Times: 4
+	Query: "(crotalus pricei)" ; Times: 1
+	Query: "gato" ; Times: 1
+	Query: "Sceloporus scalaris*" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;100000" ; Times: 1
+	Query: "109 class:Reptilia county:&#34;Otero&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Retiformis" ; Times: 1
+	Query: "MSB 77143" ; Times: 1
+	Query: "genus:salvadora hastissue:1" ; Times: 2
+	Query: "OR.5252" ; Times: 2
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 2
+	Query: "Plethodon vehiculum" ; Times: 2
+	Query: "Lampropeltis splendida" ; Times: 2
+	Query: "institutioncode:MSB" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;New Mexico&#34; institutioncode:MSB" ; Times: 1
+	Query: "class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "genus:Xantusia county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; distance(location,geopoint(42.18473112525648,-101.39064061099444))&lt;100000" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "crotalus cerberus new mexico" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "87481" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 940 download events in this period)
+Total number of records downloaded: 10387
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 36
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 8
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:coccifer family:bufonidae" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:hernandesi genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:occidentalis family:bufonidae" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Aspidoscelis costata" ; Times: 1
+	Query: "specificepithet:aucoinae family:bufonidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:douglasii genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panamá&#34;" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "family:Scincidae lengthtype:snout-vent length hassex:1 haslength:1" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+
+
+End of report.
