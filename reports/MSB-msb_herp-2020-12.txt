@@ -1,0 +1,225 @@
+Report for Institution Code MSB, Resource msb_herp
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 1013
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 116
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Mozambique ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 4
+	Date: 2020-12-31 ; Times: 3
+	Date: 2020-12-09 ; Times: 6
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-05 ; Times: 5
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-02 ; Times: 30
+	Date: 2020-12-01 ; Times: 18
+	Date: 2020-12-25 ; Times: 10
+	Date: 2020-12-24 ; Times: 5
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 6
+	Date: 2020-12-23 ; Times: 8
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 4
+	Date: 2020-12-19 ; Times: 6
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 8
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 7
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis capito" ; Times: 2
+	Query: "76468" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "genus:Pituophis county:&#34;Roosevelt&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "dicamptodon tenebrosus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "3790" ; Times: 1
+	Query: "87609" ; Times: 1
+	Query: "specificepithet:torosa genus:taricha county:&#34;mendocino&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "genus:contia month &lt;= 12" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lampropeltis zonata county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Craugastoridae" ; Times: 2
+	Query: "Masticophis taeniatus" ; Times: 3
+	Query: "specificepithet:tenuis genus:contia" ; Times: 2
+	Query: "specificepithet:sipedon stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "6988" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2020 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "jackson Thamnophis beaver" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:coccifer genus:incilius" ; Times: 3
+	Query: "82425" ; Times: 1
+	Query: "91485" ; Times: 1
+	Query: "specificepithet:concolor genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:apalone county:&#34;logan&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "chelan county" ; Times: 1
+	Query: "mappable:1 scientificname:Spea intermontana" ; Times: 1
+	Query: "Lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "specificepithet:tenuis genus:contia county:&#34;mendocino&#34;" ; Times: 2
+	Query: "incilius coccifer" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "91533" ; Times: 2
+	Query: "scientificname:Anolis sagrei" ; Times: 6
+	Query: "genus:Crotalus county:&#34;Custer&#34; stateprovince:&#34;South Dakota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "92027" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Guadalupe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Tantilla planiceps" ; Times: 2
+	Query: "ambystoma gracile &#34;Washington&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Quay&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "crotalus concolor" ; Times: 3
+	Query: "catalognumber:92027" ; Times: 6
+	Query: "91527" ; Times: 1
+	Query: "82259" ; Times: 1
+	Query: "coluber stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:woodhousii" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "mappable:1 scientificname:Eretmochelys imbricata" ; Times: 2
+	Query: "mappable:1 scientificname:Ascaphus truei" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 3
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "jackson Thamnophis" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Lithobates pipiens MSB 94745" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Pituophis county:&#34;San Miguel&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "91897" ; Times: 2
+	Query: "peregrine" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Valencia&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;De Baca&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 1
+	Query: "mappable:1 scientificname:Rana pretiosa" ; Times: 1
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "pseudacris streckeri" ; Times: 2
+	Query: "MSB 936" ; Times: 1
+	Query: "Lampropeltis zonata plumas county" ; Times: 1
+	Query: "ascaphus truei &#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "crayfish" ; Times: 1
+	Query: "catalognumber:90103" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Lincoln&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 705 download events in this period)
+Total number of records downloaded: 3306
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 9
+	Date: 2020-12-02 ; Times: 18
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2020 institutioncode:MSB hastissue:1" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+
+
+End of report.
